@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        //Hello
         HelloName.text = "Hello Noom Kittiphong"
     }
 
